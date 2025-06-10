@@ -45,7 +45,6 @@ Frontend/     # React frontend (Vite)
    ```
 4. Start the backend server:
    ```sh
-   npm start
    # or for development with auto-reload (if nodemon is installed)
    npm run dev
    ```
@@ -99,7 +98,4 @@ See backend code for details.
 - Make sure MongoDB is running and accessible.
 - For production, build the frontend and serve it with a static server or integrate with the backend.
 
----
 
-## License
-MIT
